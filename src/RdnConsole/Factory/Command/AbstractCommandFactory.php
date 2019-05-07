@@ -6,8 +6,6 @@ use RdnConsole\Command;
 use RdnFactory\AbstractFactory;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
-use Zend\ServiceManager\FactoryInterface;
-use Zend\ServiceManager\ServiceLocatorAwareInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;
 
 abstract class AbstractCommandFactory extends AbstractFactory implements
