@@ -5,10 +5,10 @@ The **RdnConsole** module bridges the Symfony Console component with Zend Framew
 
 ## How to install
 
-Use composer to require the `radnan/rdn-console` package:
+Use composer to require the `va5ja/rdn-console` package:
 
 ~~~bash
-$ composer require radnan/rdn-console:1.*
+$ composer require va5ja/rdn-console:1.*
 ~~~
 
 Activate the module by including it in your `application.config.php` file:
